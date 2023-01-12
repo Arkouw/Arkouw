@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arkouw
-- 👀 I’m interested in learning from other humans and machines and livin better.
+- 👀 I’m interested in learning from other humans and machines and living good.
 - 🌱 I’m currently learning C language and talking to ChatGPT.
 - 💞️ I’m looking forward to collaborate
 - 📫 Message me here 
